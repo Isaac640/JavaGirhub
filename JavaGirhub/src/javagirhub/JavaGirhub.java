@@ -22,9 +22,9 @@ public class JavaGirhub {
         System.out.println("¿Cocinar las alubias? 1 = si  2 = no");
         int res = teclado.nextInt();
         if (res==1){
-            System.out.println("Las quemaste");
+            System.out.println("Las quemaste.");
         }else if (res==2){
-            System.out.println("Bien, ya estaban cocinadas");
+            System.out.println("Bien, ya estaban cocinadas.");
         }
         
     }
